@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/RitikM-AiDev/google_cracker/tree/master/0041-first-missing-positive) |
 | [0135-candy](https://github.com/RitikM-AiDev/google_cracker/tree/master/0135-candy) |
+| [1480-running-sum-of-1d-array](https://github.com/RitikM-AiDev/google_cracker/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RitikM-AiDev/google_cracker/tree/master/3345-smallest-divisible-digit-product-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/RitikM-AiDev/google_cracker/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
