@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RitikM-AiDev/google_cracker/tree/master/0645-set-mismatch) |
 | [1480-running-sum-of-1d-array](https://github.com/RitikM-AiDev/google_cracker/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/RitikM-AiDev/google_cracker/tree/master/1920-build-array-from-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RitikM-AiDev/google_cracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/RitikM-AiDev/google_cracker/tree/master/1920-build-array-from-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/RitikM-AiDev/google_cracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
