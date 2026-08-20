@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/RitikM-AiDev/google_cracker/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/RitikM-AiDev/google_cracker/tree/master/0135-candy) |
 | [0645-set-mismatch](https://github.com/RitikM-AiDev/google_cracker/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/RitikM-AiDev/google_cracker/tree/master/0881-boats-to-save-people) |
@@ -55,9 +56,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
 | [0881-boats-to-save-people](https://github.com/RitikM-AiDev/google_cracker/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/RitikM-AiDev/google_cracker/tree/master/0881-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
