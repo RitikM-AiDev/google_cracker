@@ -88,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0047-permutations-ii) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/RitikM-AiDev/google_cracker/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
