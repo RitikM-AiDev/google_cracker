@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/RitikM-AiDev/google_cracker/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikM-AiDev/google_cracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0393-utf-8-validation](https://github.com/RitikM-AiDev/google_cracker/tree/master/0393-utf-8-validation) |
+| [0416-partition-equal-subset-sum](https://github.com/RitikM-AiDev/google_cracker/tree/master/0416-partition-equal-subset-sum) |
 | [0645-set-mismatch](https://github.com/RitikM-AiDev/google_cracker/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/RitikM-AiDev/google_cracker/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/RitikM-AiDev/google_cracker/tree/master/0905-sort-array-by-parity) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
+| [0416-partition-equal-subset-sum](https://github.com/RitikM-AiDev/google_cracker/tree/master/0416-partition-equal-subset-sum) |
 ## Stack
 |  |
 | ------- |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/RitikM-AiDev/google_cracker/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0206-reverse-linked-list) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RitikM-AiDev/google_cracker/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RitikM-AiDev/google_cracker/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
