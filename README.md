@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/RitikM-AiDev/google_cracker/tree/master/0393-utf-8-validation) |
 | [0416-partition-equal-subset-sum](https://github.com/RitikM-AiDev/google_cracker/tree/master/0416-partition-equal-subset-sum) |
 | [0645-set-mismatch](https://github.com/RitikM-AiDev/google_cracker/tree/master/0645-set-mismatch) |
+| [0848-shifting-letters](https://github.com/RitikM-AiDev/google_cracker/tree/master/0848-shifting-letters) |
 | [0881-boats-to-save-people](https://github.com/RitikM-AiDev/google_cracker/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/RitikM-AiDev/google_cracker/tree/master/0905-sort-array-by-parity) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RitikM-AiDev/google_cracker/tree/master/1248-count-number-of-nice-subarrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/RitikM-AiDev/google_cracker/tree/master/0848-shifting-letters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RitikM-AiDev/google_cracker/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/RitikM-AiDev/google_cracker/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikM-AiDev/google_cracker/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0848-shifting-letters](https://github.com/RitikM-AiDev/google_cracker/tree/master/0848-shifting-letters) |
 | [1360-number-of-days-between-two-dates](https://github.com/RitikM-AiDev/google_cracker/tree/master/1360-number-of-days-between-two-dates) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RitikM-AiDev/google_cracker/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1844-replace-all-digits-with-characters](https://github.com/RitikM-AiDev/google_cracker/tree/master/1844-replace-all-digits-with-characters) |
