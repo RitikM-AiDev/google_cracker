@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikM-AiDev/google_cracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0393-utf-8-validation](https://github.com/RitikM-AiDev/google_cracker/tree/master/0393-utf-8-validation) |
 | [0416-partition-equal-subset-sum](https://github.com/RitikM-AiDev/google_cracker/tree/master/0416-partition-equal-subset-sum) |
+| [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/RitikM-AiDev/google_cracker/tree/master/0645-set-mismatch) |
 | [0848-shifting-letters](https://github.com/RitikM-AiDev/google_cracker/tree/master/0848-shifting-letters) |
 | [0881-boats-to-save-people](https://github.com/RitikM-AiDev/google_cracker/tree/master/0881-boats-to-save-people) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/RitikM-AiDev/google_cracker/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/RitikM-AiDev/google_cracker/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0047-permutations-ii) |
+| [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/RitikM-AiDev/google_cracker/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/RitikM-AiDev/google_cracker/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/RitikM-AiDev/google_cracker/tree/master/0905-sort-array-by-parity) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RitikM-AiDev/google_cracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikM-AiDev/google_cracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/RitikM-AiDev/google_cracker/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/RitikM-AiDev/google_cracker/tree/master/0905-sort-array-by-parity) |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikM-AiDev/google_cracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikM-AiDev/google_cracker/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
