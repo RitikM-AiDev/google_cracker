@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikM-AiDev/google_cracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/RitikM-AiDev/google_cracker/tree/master/0658-find-k-closest-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RitikM-AiDev/google_cracker/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RitikM-AiDev/google_cracker/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0206-reverse-linked-list) |
 ## Knapsack Problem
