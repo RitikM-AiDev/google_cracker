@@ -16,9 +16,6 @@ class Solution:
                 t1 = t1.next
                 t2 = t2.next.next
                 l+=2
-        if t2:
-            l+=1
-      
         while t1:
             if st and t1.val == st[-1]:
                 st.pop()
