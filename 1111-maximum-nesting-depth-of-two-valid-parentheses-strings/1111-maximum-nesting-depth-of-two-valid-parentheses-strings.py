@@ -5,8 +5,8 @@ class Solution:
         for i in seq:
             if i=='(':
                 depth = 1 - depth
-                dep.append(depth%2)   
+                dep.append(depth)   
             else:
-                dep.append(depth%2)
+                dep.append(depth)
                 depth = 1 - depth
         return dep
