@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0047-permutations-ii) |
 | [0135-candy](https://github.com/RitikM-AiDev/google_cracker/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikM-AiDev/google_cracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0287-find-the-duplicate-number) |
 | [0393-utf-8-validation](https://github.com/RitikM-AiDev/google_cracker/tree/master/0393-utf-8-validation) |
 | [0416-partition-equal-subset-sum](https://github.com/RitikM-AiDev/google_cracker/tree/master/0416-partition-equal-subset-sum) |
 | [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0287-find-the-duplicate-number) |
 | [0393-utf-8-validation](https://github.com/RitikM-AiDev/google_cracker/tree/master/0393-utf-8-validation) |
 | [0645-set-mismatch](https://github.com/RitikM-AiDev/google_cracker/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikM-AiDev/google_cracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/RitikM-AiDev/google_cracker/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0876-middle-of-the-linked-list) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikM-AiDev/google_cracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/RitikM-AiDev/google_cracker/tree/master/0658-find-k-closest-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikM-AiDev/google_cracker/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -179,8 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RitikM-AiDev/google_cracker/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
