@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0696-count-binary-substrings](https://github.com/RitikM-AiDev/google_cracker/tree/master/0696-count-binary-substrings) |
 | [0848-shifting-letters](https://github.com/RitikM-AiDev/google_cracker/tree/master/0848-shifting-letters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RitikM-AiDev/google_cracker/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/RitikM-AiDev/google_cracker/tree/master/1360-number-of-days-between-two-dates) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/RitikM-AiDev/google_cracker/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/RitikM-AiDev/google_cracker/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/RitikM-AiDev/google_cracker/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/RitikM-AiDev/google_cracker/tree/master/0905-sort-array-by-parity) |
