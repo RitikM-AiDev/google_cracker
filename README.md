@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/RitikM-AiDev/google_cracker/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/RitikM-AiDev/google_cracker/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0678-valid-parenthesis-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/RitikM-AiDev/google_cracker/tree/master/0696-count-binary-substrings) |
 | [0848-shifting-letters](https://github.com/RitikM-AiDev/google_cracker/tree/master/0848-shifting-letters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RitikM-AiDev/google_cracker/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -114,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
 | [0416-partition-equal-subset-sum](https://github.com/RitikM-AiDev/google_cracker/tree/master/0416-partition-equal-subset-sum) |
+| [0678-valid-parenthesis-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RitikM-AiDev/google_cracker/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
 |  |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/RitikM-AiDev/google_cracker/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Pigeonhole Principle
 |  |
