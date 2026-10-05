@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/RitikM-AiDev/google_cracker/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RitikM-AiDev/google_cracker/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RitikM-AiDev/google_cracker/tree/master/0856-score-of-parentheses) |
@@ -203,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/RitikM-AiDev/google_cracker/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/RitikM-AiDev/google_cracker/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
