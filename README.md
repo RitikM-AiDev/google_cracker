@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/RitikM-AiDev/google_cracker/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikM-AiDev/google_cracker/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1920-build-array-from-permutation](https://github.com/RitikM-AiDev/google_cracker/tree/master/1920-build-array-from-permutation) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RitikM-AiDev/google_cracker/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RitikM-AiDev/google_cracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RitikM-AiDev/google_cracker/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RitikM-AiDev/google_cracker/tree/master/0645-set-mismatch) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RitikM-AiDev/google_cracker/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RitikM-AiDev/google_cracker/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RitikM-AiDev/google_cracker/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Math
 |  |
 | ------- |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/RitikM-AiDev/google_cracker/tree/master/0232-implement-queue-using-stacks) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RitikM-AiDev/google_cracker/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
