@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/RitikM-AiDev/google_cracker/tree/master/0089-gray-code) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RitikM-AiDev/google_cracker/tree/master/1248-count-number-of-nice-subarrays) |
 | [1360-number-of-days-between-two-dates](https://github.com/RitikM-AiDev/google_cracker/tree/master/1360-number-of-days-between-two-dates) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RitikM-AiDev/google_cracker/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/RitikM-AiDev/google_cracker/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0287-find-the-duplicate-number) |
 | [0393-utf-8-validation](https://github.com/RitikM-AiDev/google_cracker/tree/master/0393-utf-8-validation) |
 | [0645-set-mismatch](https://github.com/RitikM-AiDev/google_cracker/tree/master/0645-set-mismatch) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/RitikM-AiDev/google_cracker/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/RitikM-AiDev/google_cracker/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/RitikM-AiDev/google_cracker/tree/master/0301-remove-invalid-parentheses) |
 ## Database
 |  |
