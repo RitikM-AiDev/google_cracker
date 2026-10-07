@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0301-remove-invalid-parentheses](https://github.com/RitikM-AiDev/google_cracker/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/RitikM-AiDev/google_cracker/tree/master/0696-count-binary-substrings) |
 | [0848-shifting-letters](https://github.com/RitikM-AiDev/google_cracker/tree/master/0848-shifting-letters) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/RitikM-AiDev/google_cracker/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0047-permutations-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/RitikM-AiDev/google_cracker/tree/master/0301-remove-invalid-parentheses) |
 ## Database
 |  |
 | ------- |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RitikM-AiDev/google_cracker/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/RitikM-AiDev/google_cracker/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
