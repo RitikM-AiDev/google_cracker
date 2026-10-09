@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/RitikM-AiDev/google_cracker/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/RitikM-AiDev/google_cracker/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/RitikM-AiDev/google_cracker/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/RitikM-AiDev/google_cracker/tree/master/0301-remove-invalid-parentheses) |
 ## Database
