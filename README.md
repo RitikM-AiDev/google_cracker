@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/RitikM-AiDev/google_cracker/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/RitikM-AiDev/google_cracker/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0306-additive-number) |
 | [0443-string-compression](https://github.com/RitikM-AiDev/google_cracker/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/RitikM-AiDev/google_cracker/tree/master/0696-count-binary-substrings) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/RitikM-AiDev/google_cracker/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0306-additive-number) |
 ## Database
 |  |
 | ------- |
