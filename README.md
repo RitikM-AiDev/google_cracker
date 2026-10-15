@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RitikM-AiDev/google_cracker/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RitikM-AiDev/google_cracker/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0090-subsets-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/RitikM-AiDev/google_cracker/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikM-AiDev/google_cracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0216-combination-sum-iii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/RitikM-AiDev/google_cracker/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/0678-valid-parenthesis-string) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RitikM-AiDev/google_cracker/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RitikM-AiDev/google_cracker/tree/master/0042-trapping-rain-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/RitikM-AiDev/google_cracker/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/0678-valid-parenthesis-string) |
 ## Stack
