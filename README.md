@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RitikM-AiDev/google_cracker/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/RitikM-AiDev/google_cracker/tree/master/1844-replace-all-digits-with-characters) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
