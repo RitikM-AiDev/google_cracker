@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/RitikM-AiDev/google_cracker/tree/master/0089-gray-code) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RitikM-AiDev/google_cracker/tree/master/1248-count-number-of-nice-subarrays) |
 | [1360-number-of-days-between-two-dates](https://github.com/RitikM-AiDev/google_cracker/tree/master/1360-number-of-days-between-two-dates) |
+| [2409-count-days-spent-together](https://github.com/RitikM-AiDev/google_cracker/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RitikM-AiDev/google_cracker/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RitikM-AiDev/google_cracker/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Enumeration
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RitikM-AiDev/google_cracker/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/RitikM-AiDev/google_cracker/tree/master/1844-replace-all-digits-with-characters) |
+| [2409-count-days-spent-together](https://github.com/RitikM-AiDev/google_cracker/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RitikM-AiDev/google_cracker/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
