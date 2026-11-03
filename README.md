@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/RitikM-AiDev/google_cracker/tree/master/0393-utf-8-validation) |
 | [0416-partition-equal-subset-sum](https://github.com/RitikM-AiDev/google_cracker/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RitikM-AiDev/google_cracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RitikM-AiDev/google_cracker/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/RitikM-AiDev/google_cracker/tree/master/0645-set-mismatch) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/RitikM-AiDev/google_cracker/tree/master/0089-gray-code) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RitikM-AiDev/google_cracker/tree/master/1248-count-number-of-nice-subarrays) |
 | [1360-number-of-days-between-two-dates](https://github.com/RitikM-AiDev/google_cracker/tree/master/1360-number-of-days-between-two-dates) |
 | [2409-count-days-spent-together](https://github.com/RitikM-AiDev/google_cracker/tree/master/2409-count-days-spent-together) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RitikM-AiDev/google_cracker/tree/master/0056-merge-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/RitikM-AiDev/google_cracker/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/RitikM-AiDev/google_cracker/tree/master/0658-find-k-closest-elements) |
