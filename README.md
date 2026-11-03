@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/RitikM-AiDev/google_cracker/tree/master/0393-utf-8-validation) |
 | [0416-partition-equal-subset-sum](https://github.com/RitikM-AiDev/google_cracker/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RitikM-AiDev/google_cracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RitikM-AiDev/google_cracker/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/RitikM-AiDev/google_cracker/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/RitikM-AiDev/google_cracker/tree/master/0611-valid-triangle-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/RitikM-AiDev/google_cracker/tree/master/0089-gray-code) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/RitikM-AiDev/google_cracker/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RitikM-AiDev/google_cracker/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RitikM-AiDev/google_cracker/tree/master/1248-count-number-of-nice-subarrays) |
 | [1360-number-of-days-between-two-dates](https://github.com/RitikM-AiDev/google_cracker/tree/master/1360-number-of-days-between-two-dates) |
